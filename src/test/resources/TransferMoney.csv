@@ -1,0 +1,3 @@
+amount1,expected1,amount2,expected2,message
+2000,12000,3000,11000,Transfer from the card 2000 и 3000
+7000,16000,6000,10000,Transfer from the card 7000 и 6000
